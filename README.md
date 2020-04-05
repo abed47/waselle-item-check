@@ -1,4 +1,4 @@
-## ** Waselle item check **
+## **Waselle item check**
 ### to start:
 - install node js & clone the repo
 ```
@@ -7,14 +7,14 @@
 ```
 - cd into the repo
 ```
-> cd ${path}
+>cd ${path}
 ```
 
 - download node dependencies
 ```
-> npm i 
+>npm i 
 ```
 - start the cli-app
 ```
-> npm run start
+>npm run start
 ```
